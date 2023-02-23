@@ -148,3 +148,4 @@ if (info->status == 126)
 print_error(info, "Permission denied\n");
 }
 }
+}
